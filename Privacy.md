@@ -1,7 +1,7 @@
-# Rias Privacy Policy 
+# RiasBot Privacy Policy 
 Last Updated: June 24 2024
 
-This document outlines the privacy policy for the Discord bot This document outlines the privacy policy for the Discord bot ("Rias") and its associated services provided by the developer. and its associated services provided by the developer.
+This document outlines the privacy policy for the Discord bot This document outlines the privacy policy for the Discord bot ("RiasBot") and its associated services provided by the developer. and its associated services provided by the developer.
 
 ## Welcome
 This Privacy Policy tells you about the information we gather from users and how we handle, store, protect, or share it when you use our Service. While the full document has all the details, here's a simple summary.
