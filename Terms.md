@@ -1,4 +1,4 @@
-# Rias Terms Of Services
+# RiasBot Terms Of Services
 Last Updated: June 24 2024
 
 # Agreement to Terms
